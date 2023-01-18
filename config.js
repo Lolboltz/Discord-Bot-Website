@@ -41,7 +41,7 @@ const config = {
   serverCount: 30, //-  - Your
   memberCount: 1979, //--   - Bot
   executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
+  availableCommand: 37, //---   - Here
   //Do not change if you don't know about them
   discordLogo: (
     <FaDiscord className="h-10 w-10 text-[#738adb] hover:scale-125 easeIn cursor-pointer" />
