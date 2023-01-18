@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Hotdog",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1060711885936263228&permissions=1649753098870&scope=bot",
   //BotInvite Link
   Features: [
     {
@@ -30,9 +30,9 @@ const config = {
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
-      name: "Welcomer",
+      name: "Join To Create",
       description:
-        "Welcomer is the person who greet the new person in an unique and great way",
+        "Join to create allows you to join a voice channel and it will auto create a custom vc for you",
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
