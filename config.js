@@ -38,28 +38,17 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
+  serverCount: 30, //-  - Your
+  memberCount: 1979, //--   - Bot
   executedCommand: 27000, //--  - Stats
   availableCommand: 400, //---   - Here
   //Do not change if you don't know about them
-  faceBookLogo: (
-    <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
-  ),
   discordLogo: (
     <FaDiscord className="h-10 w-10 text-[#738adb] hover:scale-125 easeIn cursor-pointer" />
   ),
-  youTubeLogo: (
-    <BsYoutube className="h-10 w-10 text-[#FF0000] hover:scale-125 easeIn cursor-pointer" />
-  ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
-  twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
-  facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/mnNpZsaJmD",
 };
 
 export default config;
